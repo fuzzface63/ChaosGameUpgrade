@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChaosGameUpgrade.vcxproj" Id="e36dafbb-ebef-4817-a37a-87bfeb7f3128" />
+</Solution>
